@@ -1,5 +1,7 @@
 # JavaSE-BiPredicate
 
+See the Udemy course: https://www.udemy.com/course/curso-certificacion-profesional-desarrollador-java-se-11
+
 In Java, a BiPredicate is a functional interface that represents a predicate (a boolean-valued function) that takes two arguments.
 
 It's a part of the java.util.function package introduced in Java 8, specifically designed to work with functional programming concepts.
